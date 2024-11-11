@@ -6,7 +6,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: "https://scholar.google.com/citations?user=qk39CdYAAAAJ&hl=en"
 
   # - title: "Talks"
   #   url: /talks/    
@@ -20,8 +21,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
