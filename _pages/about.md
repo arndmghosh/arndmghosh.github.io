@@ -7,4 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working on AI-based healthcare, focusing on how to apply speech and natural language processsing (NLP) technology to automate clinical visit flow for physicians and help them to focus more on patient care.
+I am working on AI-driven healthcare solutions, with a focus on using speech and natural language processing (NLP) technology to automate clinical visit workflows for physicians, allowing them to concentrate more on patient care.
+
+Education
+======
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2019
+* B.Tech. in Electronics and Communication Engineering, NIT Durgapur, 2013
