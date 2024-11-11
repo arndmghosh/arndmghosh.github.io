@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working on AI-driven healthcare solutions, with a focus on using speech and natural language processing (NLP) technology to automate clinical visit workflows for physicians, allowing them to concentrate more on patient care.
+I work as a Research Scientist at 3M Health (or Solventum Health) in the speech research and development group. Our primary aim is to create AI-powered healthcare solutions that leverage speech and natural language processing (NLP) technology to automate clinical visit workflows for physicians, allowing them to focus more on patient care.
 
 Education
 ======
