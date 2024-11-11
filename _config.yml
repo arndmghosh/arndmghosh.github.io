@@ -21,7 +21,7 @@ repository               : "arndmghosh/arndmghosh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "arindam_neurips.jpg"
   name             : "Arindam Ghosh"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist (Machine Learning for Speech & NLU) at 3M/Solventum Healthcare"
