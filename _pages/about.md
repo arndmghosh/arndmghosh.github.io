@@ -11,10 +11,10 @@ I am working on AI-driven healthcare solutions, with a focus on using speech and
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2019
-* B.Tech. in Electronics and Communication Engineering, NIT Durgapur, 2013
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, USA, 2019
+* B.Tech. in Electronics and Communication Engineering, NIT Durgapur, India, 2013
 
-Work experience
+Publication
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
