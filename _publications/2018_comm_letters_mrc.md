@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2018_comm_letters_mrc
 excerpt: 'In this paper, we analytically derive the MRC outage probability for an arbitrary N by employing the mixture-based method of modeling the correlation in the interference powers.'
-date: 2009-09-12
+date: 2018-09-12
 venue: 'IEEE Communications Letters'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/8464045'
