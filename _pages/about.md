@@ -13,5 +13,5 @@ To be specific, I work (have worked) on self-supervised learning (SSL) for speec
 
 Education
 ======
-* Master of Science, Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
-* Bachelor of Technology, Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
+* MS, Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
+* BTech, Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
