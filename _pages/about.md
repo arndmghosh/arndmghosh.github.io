@@ -11,5 +11,5 @@ I work as a Research Scientist at 3M/Solventum Health in the Speech R&D group. O
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
-* B.Tech. in Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
+* Master of Science, Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
+* Bachelor of Technology, Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
