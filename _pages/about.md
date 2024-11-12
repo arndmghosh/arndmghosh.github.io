@@ -14,6 +14,7 @@ Education
 * M.S. in Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
 * B.Tech. in Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
 
+<!---
 Publications
 ======
 * Machine Learning
@@ -26,3 +27,4 @@ Publications
   * **Ghosh, Arindam**. "Mixture-based modeling of spatially correlated interference in a Poisson field of interferers." **IEEE Communications Letters** 21.11 (2017): 2496-2499. <https://ieeexplore.ieee.org/document/8012379>
   * **Ghosh, Arindam**, Gourab Ghatak, and Aniruddha Chandra. "SEP of dual-ring star-QAM over FSO channels with atmospheric turbulence." 2014 International Conference on Signal Processing and Communications (**SPCOM**). IEEE, 2014. <https://ieeexplore.ieee.org/document/6983963>
   * **Ghosh, Arindam**, Jae-Won Lee, and Ho-Shin Cho. "Throughput and energy efficiency of a cooperative hybrid ARQ protocol for underwater acoustic sensor networks." **Sensors** 13.11 (2013): 15385-15408. <https://www.mdpi.com/1424-8220/13/11/15385>
+  -->
