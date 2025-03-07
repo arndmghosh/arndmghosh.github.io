@@ -14,5 +14,5 @@ detection, summarization of doctor-patient conversations etc.
 
 Education
 ======
-* MS, Electrical and Computer Engineering, **Carnegie Mellon University**, USA (2019)
-* BTech, Electronics and Communication Engineering, **NIT Durgapur**, India (2013)
+* MS, Electrical and Computer Engineering, Carnegie Mellon University, USA (2019)
+* BTech, Electronics and Communication Engineering, NIT Durgapur, India (2013)
