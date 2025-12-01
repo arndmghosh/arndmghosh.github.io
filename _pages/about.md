@@ -5,7 +5,14 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+# classes: wide
 ---
+
+<style>
+.page__content {
+  font-size: 1.0em;
+}
+</style>
 
 I am a Research Scientist at 3M Health (Solventum) in the Speech Research and Development group. Our overall aim is to develop AI-driven healthcare solutions that leverage speech and natural language processing (NLP) technology to automate clinical visit workflows for physicians, allowing them to focus more on patient care.
 
