@@ -25,5 +25,5 @@ Specifically, I am working (or have worked) on:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, USA (2019 - 2019)
-* B.Tech. in Electronics and Communication Engineering, NIT Durgapur, India (2009 - 2013)
+* Master's in Electrical and Computer Engineering, Carnegie Mellon University, USA (2019 - 2019)
+* Bachelor's in Electronics and Communication Engineering, NIT Durgapur, India (2009 - 2013)
