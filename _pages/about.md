@@ -10,7 +10,7 @@ classes: wide
 
 <style>
 .page__content {
-  font-size: 0.8em;
+  font-size: 0.85em;
   max-width: 100% !important;
 }
 .page {
