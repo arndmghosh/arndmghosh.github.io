@@ -5,12 +5,12 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-# classes: wide
+classes: wide
 ---
 
 <style>
 .page__content {
-  font-size: 0.7em;
+  font-size: 0.8em;
 }
 </style>
 
