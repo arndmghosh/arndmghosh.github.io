@@ -23,7 +23,6 @@ Specifically, I am working (or have worked) on:
 - Low-resource, low-footprint wake-word detection
 - Summarization of doctor-patient conversations
 
-Education
-======
+Education:
 - 2019-2019: Master's in Electrical and Computer Engineering, Carnegie Mellon University, USA
 - 2009-2013: Bachelor's in Electronics and Communication Engineering, NIT Durgapur, India
