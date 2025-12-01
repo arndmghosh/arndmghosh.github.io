@@ -5,22 +5,11 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-classes: wide
 ---
 
 <style>
 .page__content {
   font-size: 0.85em;
-  max-width: 100% !important;
-}
-.page {
-  width: 100%;
-  max-width: none;
-}
-@media (min-width: 64em) {
-  .page {
-    padding-right: 2em;
-  }
 }
 </style>
 
