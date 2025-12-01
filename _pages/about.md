@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 .page__content {
-  font-size: 0.85em;
+  font-size: 0.8em;
 }
 </style>
 
