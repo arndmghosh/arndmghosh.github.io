@@ -19,18 +19,14 @@ redirect_from:
 I am currently a Research Scientist at 3M Health (Solventum) in the Speech Research and Development group. Our overall aim is to develop AI-driven healthcare solutions that leverage speech and natural language processing (NLP) technologies to automate clinical visit workflows for physicians, allowing them to focus more on patient care.
 
 **Research:**
-  Machine Learning
-- Self-supervised learning (SSL) for speech
-- Transducer (RNN-T) based ASR models
-- End-to-end joint ASR and speaker-role diarization
-- Confidence calibration of neural networks
-- Low-resource, low-footprint wake-word detection
-- Summarization of doctor-patient conversations
-
-Wireless Communication (Earlier)
-- Interference Modeling in wireless network
-- Error correction and ARQ schemes for underwater wireless sensor networks
-- Signal modulation for free-space optical communication
+- Machine Learning (2019-present)
+  - Confidence calibration of neural networks
+  - Speech: Self-supervised learning, Transducer (RNN-T) based ASR, Joint ASR and speaker-role diarization, wake-word detection
+  - NLP: Summarization of doctor-patient conversations
+- Wireless Communication (before 2019)
+  - Interference modeling in wireless networks
+  - Error correction and ARQ schemes for underwater wireless sensor networks
+  - Signal modulation for free-space optical communication
 
 **Education:**
 - 2019–2019: Master's in Electrical and Computer Engineering, Carnegie Mellon University, USA
