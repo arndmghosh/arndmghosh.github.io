@@ -28,7 +28,7 @@ I am currently a Research Scientist at 3M Health (Solventum) in the Speech Resea
 - Summarization of doctor-patient conversations
 
 Wireless Communication (Earlier)
-- Modeling of correlated interference in wireless network
+- Interference Modeling in wireless network
 - Error correction and ARQ schemes for underwater wireless sensor networks
 - Signal modulation for free-space optical communication
 
