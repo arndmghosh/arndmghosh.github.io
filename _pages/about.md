@@ -20,13 +20,13 @@ I am currently a Research Scientist at 3M Health (Solventum) in the Speech Resea
 
 **Research:**
 - Machine Learning (2019-present)
-  - Core ML: Confidence calibration of neural networks
-  - Speech: Self-supervised learning, Transducer (RNN-T) based ASR, Joint ASR and speaker-role diarization, wake-word detection
-  - NLP: Summarization of doctor-patient conversations
+  - Core ML: Confidence calibration of neural networks (NeurIPS)
+  - Speech: Self-supervised learning, Transducer (RNN-T) based ASR, Joint ASR and speaker-role diarization, wake-word detection (Interspeech)
+  - NLP: Summarization of doctor-patient conversations (EMNLP)
 - Wireless Communication (before 2019)
-  - Interference modeling in wireless networks
-  - Error correction and ARQ schemes for underwater wireless sensor networks
-  - Signal modulation for free-space optical communication
+  - Interference modeling in wireless networks (IEEE Comm. Letters)
+  - Error correction and ARQ schemes for underwater wireless sensor networks (Sensors)
+  - Signal modulation for free-space optical communication (IEEE SPCOM)
 
 **Education:**
 - 2019–2019: Master's in Electrical and Computer Engineering, Carnegie Mellon University, USA
