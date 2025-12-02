@@ -20,7 +20,7 @@ I am currently a Research Scientist at 3M Health (Solventum) in the Speech Resea
 
 **Research:**
 - Machine Learning (2019-present)
-  - Confidence calibration of neural networks
+  - Core ML: Confidence calibration of neural networks
   - Speech: Self-supervised learning, Transducer (RNN-T) based ASR, Joint ASR and speaker-role diarization, wake-word detection
   - NLP: Summarization of doctor-patient conversations
 - Wireless Communication (before 2019)
