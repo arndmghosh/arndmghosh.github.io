@@ -12,7 +12,7 @@ redirect_from:
   font-size: 0.8em;
 }
 .page__content p + ul {
-  margin-top: -0.6em;
+  margin-top: -0.7em;
 }
 </style>
 
