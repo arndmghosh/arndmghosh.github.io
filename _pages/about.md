@@ -33,7 +33,7 @@ I am currently a Research Scientist at 3M Health (Solventum) in the Speech Resea
 - Bachelor of Technology in Electronics and Communication Engineering, **NIT Durgapur**, India (2009 - 2013)
 
 **REVIEWER:**
-- Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
-- Reviewer for Neural Information Processing Systems (NeurIPS) 2025 (**Top Reviewer** award)
-- Reviewer for INTERSPEECH 2025
-- Reviewer for IEEE Spoken Language Technology Workshop (SLT) 202
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
+- Neural Information Processing Systems (NeurIPS) 2025 (**Top Reviewer** award)
+- INTERSPEECH 2025
+- IEEE Spoken Language Technology Workshop (SLT) 202
